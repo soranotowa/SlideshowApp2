@@ -13,6 +13,10 @@
 		04A19DE92713251900D664F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A19DE72713251900D664F8 /* Main.storyboard */; };
 		04A19DEB2713251E00D664F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A19DEA2713251E00D664F8 /* Assets.xcassets */; };
 		04A19DEE2713251E00D664F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A19DEC2713251E00D664F8 /* LaunchScreen.storyboard */; };
+		04A19E1C2713358700D664F8 /* ZoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A19E1B2713358700D664F8 /* ZoomViewController.swift */; };
+		04A19E26271457ED00D664F8 /* ポプテピ1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04A19E25271457ED00D664F8 /* ポプテピ1.jpeg */; };
+		04A19E28271457F300D664F8 /* ポプテピ2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04A19E27271457F300D664F8 /* ポプテピ2.jpeg */; };
+		04A19E2C271458C100D664F8 /* ポプテピ0.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04A19E2B271458C100D664F8 /* ポプテピ0.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		04A19DEA2713251E00D664F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04A19DED2713251E00D664F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04A19DEF2713251E00D664F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04A19E1B2713358700D664F8 /* ZoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomViewController.swift; sourceTree = "<group>"; };
+		04A19E25271457ED00D664F8 /* ポプテピ1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ポプテピ1.jpeg"; sourceTree = "<group>"; };
+		04A19E27271457F300D664F8 /* ポプテピ2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ポプテピ2.jpeg"; sourceTree = "<group>"; };
+		04A19E2B271458C100D664F8 /* ポプテピ0.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ポプテピ0.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +67,11 @@
 				04A19DE12713251900D664F8 /* AppDelegate.swift */,
 				04A19DE32713251900D664F8 /* SceneDelegate.swift */,
 				04A19DE52713251900D664F8 /* ViewController.swift */,
+				04A19E1B2713358700D664F8 /* ZoomViewController.swift */,
 				04A19DE72713251900D664F8 /* Main.storyboard */,
+				04A19E2B271458C100D664F8 /* ポプテピ0.jpeg */,
+				04A19E25271457ED00D664F8 /* ポプテピ1.jpeg */,
+				04A19E27271457F300D664F8 /* ポプテピ2.jpeg */,
 				04A19DEA2713251E00D664F8 /* Assets.xcassets */,
 				04A19DEC2713251E00D664F8 /* LaunchScreen.storyboard */,
 				04A19DEF2713251E00D664F8 /* Info.plist */,
@@ -126,7 +138,10 @@
 			files = (
 				04A19DEE2713251E00D664F8 /* LaunchScreen.storyboard in Resources */,
 				04A19DEB2713251E00D664F8 /* Assets.xcassets in Resources */,
+				04A19E26271457ED00D664F8 /* ポプテピ1.jpeg in Resources */,
 				04A19DE92713251900D664F8 /* Main.storyboard in Resources */,
+				04A19E28271457F300D664F8 /* ポプテピ2.jpeg in Resources */,
+				04A19E2C271458C100D664F8 /* ポプテピ0.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,6 +155,7 @@
 				04A19DE62713251900D664F8 /* ViewController.swift in Sources */,
 				04A19DE22713251900D664F8 /* AppDelegate.swift in Sources */,
 				04A19DE42713251900D664F8 /* SceneDelegate.swift in Sources */,
+				04A19E1C2713358700D664F8 /* ZoomViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
